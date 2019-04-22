@@ -9,6 +9,6 @@ Click to get the PDF file   [Cook_Creative_Profile.pdf](https://zihaolu.io/CookC
 
 Last Updated on April 22nd, 2019.
 
-![image](https://raw.githubusercontent.com/ZihaoLu/CookCreativeProfile/master/Cook_Creative_Profile_Cover.jpg)
+![image](https://raw.githubusercontent.com/ZihaoLu/CookCreativeProfile/master/Cook_Creative_Profile_Cover.jpeg)
 
 Copyright © 2019 Cook Creative
