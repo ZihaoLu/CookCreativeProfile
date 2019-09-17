@@ -7,7 +7,7 @@ We sincerely hope to cooperate with more partners and grow together.
 
 Click to get the PDF file   [Cook_Creative_Profile.pdf](https://zihaolu.io/CookCreativeProfile/Cook_Creative_Profile.pdf)
 
-Last Updated on May 24th, 2019.
+Last Updated on September 17th, 2019.
 
 ![image](https://raw.githubusercontent.com/ZihaoLu/CookCreativeProfile/master/Cook_Creative_Profile_Cover.jpeg)
 
