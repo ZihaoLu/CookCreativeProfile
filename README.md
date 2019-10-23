@@ -1,13 +1,13 @@
-# Make the World More Delicious
-Just like cooking, we hope to bring wonderful experience to life through our professional work.
+# More Digital, Better Experience
+COOK CREATIVE is an innovative agency whose mission is to co-create digital products with extraordinary brands around the world.
 
-The core team of COOK CREATIVE ® is composed of interdisciplinary designers, user experience researchers and developers. Focusing on cutting-edge brands, we provide service including product research, experience design and systematic digital solutions. Our footprint covers fashion, consumer electronics, internet media and many other emerging fields. It is our mission to help brands tell their stories, to move and inspire their audiences with great stories.
+Since our founding in 2016, COOK CREATIVE has grown steadily with a core team composed of interdisciplinary researchers, designers and developers. Focusing on extraordinary brands around the world, we provide services including brand strategy research, user experience design, and digital product development. Our footprint covers streetwear culture, consumer electronics, internet media and many other emerging fields. We exist to help brands tell their stories, to move and inspire their audience with great experience.
 
 We sincerely hope to cooperate with more partners and grow together.
 
 Click to get the PDF file   [Cook_Creative_Profile.pdf](https://zihaolu.io/CookCreativeProfile/Cook_Creative_Profile.pdf)
 
-Last Updated on September 17th, 2019.
+Last Updated on October 23rd, 2019.
 
 ![image](https://raw.githubusercontent.com/ZihaoLu/CookCreativeProfile/master/Cook_Creative_Profile_Cover.jpeg)
 
