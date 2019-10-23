@@ -5,7 +5,7 @@ Since our founding in 2016, COOK CREATIVE has grown steadily with a core team co
 
 We sincerely hope to cooperate with more partners and grow together.
 
-Click to get the PDF file   [Cook_Creative_Profile.pdf](https://zihaolu.io/CookCreativeProfile/Cook_Creative_Profile.pdf)
+Click to get the PDF file   [Cook_Creative_Profile.pdf](https://shihheng.com/CookCreativeProfile/Cook_Creative_Profile.pdf)
 
 Last Updated on October 23rd, 2019.
 
