@@ -5,6 +5,6 @@ Click to get the PDF file   [F(x)Lab_Credential_2022May30.pdf](https://github.co
 
 Last Updated on May 30th, 2022.
 
-![image](https://github.com/ZihaoLu/FXLAB/blob/9b52aba280ab960ce991014a3505f8c359cd9ad6/F(x)Lab_Credential_Cover.jpeg)
+![image](https://raw.githubusercontent.com/ZihaoLu/FXLAB/e1340cf1972e29a24dc67744ed146013ed225ed0/F(x)Lab_Credential_Cover.jpeg)
 
 Copyright © 2022 F(x)Lab
