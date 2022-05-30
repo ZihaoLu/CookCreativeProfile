@@ -5,7 +5,7 @@ F(x)Lab is a global digital innovation agency that focuses on creating digital s
 
 Click to get the PDF file   [F(x)Lab_Credential_2022May30.pdf](https://zihaolu.github.io/FXLAB/F(x)Lab_Credential_2022May30.pdf)
 
-Follow us on [WeChat](https://zihaolu.github.io/FXLAB/F(x)Lab_WeChat.png) | [Instagram](https://www.instagram.com/fxlabinc/) | [LinkedIn](https://www.linkedin.com/company/fxlab/)
+Follow us on [WeChat](https://zihaolu.github.io/FXLAB/F(x)Lab_WeChat.png), [Instagram](https://www.instagram.com/fxlabinc/) & [LinkedIn](https://www.linkedin.com/company/fxlab/).
 
 Last Updated on May 30th, 2022.
 
